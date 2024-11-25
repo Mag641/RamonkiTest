@@ -1,0 +1,3 @@
+﻿# Запуск
+npx playwright test
+

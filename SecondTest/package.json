@@ -1,0 +1,19 @@
+{
+  "name": "secondtest",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "npx palywright test",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.1",
+    "eslint": "^9.15.0",
+    "typescript": "^5.6.3"
+  }
+}
